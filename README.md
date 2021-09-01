@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Viresh Mohan
 - 👀 I’m interested in ... Data Analytics
-- 🌱 I’m currently learning ... Tableau and SQL
+- 🌱 I’m currently working on tools & techs. like ... Tableau, Power BI, Python and SQL
 - 📫 How to reach me ... Mob: +91-8168083746, vireshmohan890@gmail.com
 
 <!---
